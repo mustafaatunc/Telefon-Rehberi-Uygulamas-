@@ -1,0 +1,11 @@
+
+*.class
+
+
+telefon_rehberi.txt
+
+# IDE ve Sistem dosyaları
+.idea/
+*.iml
+.vscode/
+.DS_Store
