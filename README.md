@@ -58,6 +58,6 @@ Gecerli: 1
 Gecersiz: 1
 ```
 ## 👨‍💻 Geliştirici
-[Mustafa Tunç]
+**Mustafa Tunç**
 
 
